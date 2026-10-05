@@ -1,0 +1,11 @@
+{
+    "name": "NutriTrack",
+    "short_name": "NutriTrack",
+    "description": "Personal food and nutrition tracker",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#080a0d",
+    "theme_color": "#080a0d",
+    "orientation": "portrait-primary",
+    "icons": []
+}
